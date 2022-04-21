@@ -1,4 +1,4 @@
-# The Monico-Culture and Beyond Chronology, Using Bayesian Inference to Evaluate Hypotheses in Archaeology
+# La cultura Monico y Más Allá de la Cronología, Uso de la Inferencia Bayesiana para Evaluar Hipótesis en Arqueología
 
 Please cite these materials as:
 
