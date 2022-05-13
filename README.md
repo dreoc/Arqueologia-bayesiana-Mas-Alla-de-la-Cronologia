@@ -1,7 +1,7 @@
 # La cultura Monico y la Arqueologia Bayesiana Más Allá de la Cronología
 
-Please cite these materials as:
+Por favor cite estos materiales como:
 
 > Otarola-Castillo, E., Torquato, M. G., Wolfhagen, J., Hill, M. E., Jr., & Buck, C. E. (2022). The Monico Culture and Beyond Chronology, Using Bayesian Inference to Evaluate Hypotheses in Archaeology. https://doi.org/10.17605/OSF.IO/54F62
 
-This GitHub repository maintains the R Markdown, code, and data files necessary to replicate a pre-print of the manuscript titled "Beyond Chronology, Using Bayesian Inference to Evaluate Hypotheses in Archaeology", by Otarola-Castillo et al. accepted for publication in the journal Advances in Archaeological Practice. This document is not yet in press and as such it is currently evolving - slighly - the acknowledgments, for example are not yet complete; and Figure 2 remains in draft form. While these may seen cosmetic, however, all analyses, analytical and statistical discussions and arguments in the paper are in the accepted format and will remain in place.   
+EOC mantiene este repositorio dentro del Open Science Framework para mantener un DOI DOI 10.17605/OSF.IO/23BDT) y almacenar los archivos de datos, código y R Markdown necesarios para replicar la traduccion de este manuscrito al Castellano. Actualmente este trabajo esta en prensa con Advances in Archaeological Practice. Aquí los usuarios pueden producir versiones en PDF y HTML del manuscrito en Castellano para mayor comodidad. 
