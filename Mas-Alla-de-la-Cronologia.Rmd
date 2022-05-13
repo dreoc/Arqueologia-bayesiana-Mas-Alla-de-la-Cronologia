@@ -1,5 +1,5 @@
 ---
-title: "**BEYOND CHRONOLOGY, USING BAYESIAN INFERENCE TO EVALUATE HYPOTHESES IN ARCHAEOLOGY**"
+title: "**MÁS ALLÁ DE LA CRONOLOGÍA, USO DE LA INFERENCIA BAYESIANA PARA EVALUAR HIPÓTESIS EN ARQUEOLOGÍA**"
 author: 
   - ERIK OTÁROLA-CASTILLO^1^*, 
   - MELISSA G. TORQUATO^1^,
@@ -10,12 +10,12 @@ author:
   - ^2^Department of Anthropology, University of Iowa, Iowa City, Iowa, USA
   - ^3^School of Mathematics and Statistics, University of Sheffield, Sheffield, UK
   - " "
-  - "**Preprint of Manuscript accepted for publication by Advances in Archaeological Practice.**"
-  - "*Corresponding author"
+  - "**Preimpresión del manuscrito aceptada para su publicación por Advances in Archaeological Practice.**"
+  - "*Autor correspondiente"
   -   "email: eoc@purdue.edu"
 date: 
   - " "
-  - "*R Markdown version last compiled on `r format(Sys.time(), '%A %B %d %Y, %X, %Z')`*"
+  - "*Última versión de R Markdown compilada el `r format(Sys.time(), '%A %B %d %Y, %X, %Z')`*"
   - " "
 indent: yes
 header-includes:
@@ -46,41 +46,46 @@ library(ggrepel)
 library(ggtext)
 ```
 \newpage
+## RESUMEN
 
-## INTRODUCTION
-
-```{r child= "rmd_files/1_INTRODUCTION.Rmd"}
-
-```
-
-## THE MONICO CULTURE: A SIMPLIFIED APPLICATION OF BAYESIAN STATISTICS
-
-
-```{r child= "rmd_files/2_A_SIMPLIFIED_APPLICATION_OF_BAYESIAN_STATISTICS.Rmd"}
+```{r child= "rmd_files/0_RESUMEN.Rmd"}
 
 ```
 
-## WHAT IS BAYES’ THEOREM
+## INTRODUCCIÓN
 
-```{r child= "rmd_files/3_WHAT_IS_BAYES_THEOREM.Rmd"}
-
-```
-
-## LINKING BAYES’ THEOREM TO DATA AND HYPOTHESES
-
-```{r child= "rmd_files/4_LINKING_BAYES_THEOREM_TO_DATA_AND_HYPOTHESES.Rmd"}
+```{r child= "rmd_files/1_INTRODUCCIÓN.Rmd"}
 
 ```
 
-## CONCLUSIONS
+## LA CULTURA MONICO: UNA APLICACIÓN SIMPLIFICADA DE LAS ESTADÍSTICAS BAYESIANAS
 
-```{r child= "rmd_files/5_CONCLUSIONS.Rmd"}
+
+```{r child= "rmd_files/2_UNA_APLICACIÓN_SIMPLIFICADA_DE_ESTADÍSTICAS_BAYESIANAS.Rmd"}
 
 ```
 
-## ACKNOWLEDGMENTS
+## QUE ES EL TEOREMA DE BAYES
 
-```{r child= "rmd_files/6_ACKNOWLEDGMENTS.Rmd"}
+```{r child= "rmd_files/3_QUÉ_ES_BAYES_TEOREMA.Rmd"}
+
+```
+
+## VINCULACIÓN DEL TEOREMA DE BAYES A DATOS E HIPÓTESIS
+
+```{r child= "rmd_files/4_VINCULACION_DEL_TEOREMA_BAYES_A_LOS_DATOS_E_HIPOTESIS.Rmd"}
+
+```
+
+## CONCLUSIONES
+
+```{r child= "rmd_files/5_CONCLUSIONES.Rmd"}
+
+```
+
+## AGRADECIMIENTOS
+
+```{r child= "rmd_files/6_AGRADECIMIENTOS.Rmd"}
 
 ```
 
