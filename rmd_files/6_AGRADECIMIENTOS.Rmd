@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-This work did not require permits. EOC is thankful to Deb Nichols, John Watanabe, Sophie Nichols-Watanabe, Robert (Bob) L. Kelly, and the Dartmouth Coach for inspiring and facilitating the development of some concepts in this paper. In addition, Amanda Veile, Mike Shott, Eduardo Fernandez-Duque, and two anonymous reviewers provided constructive comments on earlier drafts of this manuscript. Warren Muzak's (http://www.warrenmuzak.com/) stunning illustrations allowed the fictional Monico culture to come to life. Finally, Sarah Herr and the AAP editorial team have been delightful and made the submission and peer-review process fantastic.    
+Esta obra no requirió permisos. EOC agradece a Deb Nichols, John Watanabe, Sophie Nichols-Watanabe, Robert (Bob) L. Kelly y Dartmouth Coach por inspirar y facilitar el desarrollo de algunos conceptos en este documento. Además, Amanda Veile, Mike Shott, Eduardo Fernandez-Duque y dos revisores anónimos brindaron comentarios constructivos sobre borradores anteriores de este manuscrito. Las asombrosas ilustraciones de Warren Muzak (http://www.warrenmuzak.com/) permitieron que la cultura ficticia de Monico cobrara vida. Finalmente, Sarah Herr y el equipo editorial de AAP han sido encantadores e hicieron que el proceso de presentación y revisión por pares fuera fantástico.    
 
 \newpage
 
