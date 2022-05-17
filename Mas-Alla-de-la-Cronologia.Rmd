@@ -10,8 +10,9 @@ author:
   - ^2^Department of Anthropology, University of Iowa, Iowa City, Iowa, USA
   - ^3^School of Mathematics and Statistics, University of Sheffield, Sheffield, UK
   - " "
-  - "**Preimpresión del manuscrito aceptada para su publicación por Advances in Archaeological Practice.**"
-  - "*Autor correspondiente"
+  - "**Preimpresión del manuscrito aceptado para publicación por el jornal Advances in Archaeological Practice.**"
+  - " "
+  - "*Autor correspondiente:"
   -   "email: eoc@purdue.edu"
 date: 
   - " "
